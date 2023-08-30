@@ -31,5 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto está sob a licença MIT.
 
+OBS: A função que adicionar os dados no cartão bem como o css do cartão foram removidos :)
 ---
 
